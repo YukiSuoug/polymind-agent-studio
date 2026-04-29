@@ -54,7 +54,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/你的用户名/polymind-agent-studio.git
+git clone https://github.com/YukiSuoug/polymind-agent-studio.git
 cd polymind-agent-studio
 
 # 安装依赖
